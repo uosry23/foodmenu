@@ -7,7 +7,7 @@ export const restaurant: RestaurantInfo = {
     "تجربة طهي استثنائية تجمع بين الأصالة العربية واللمسة العصرية في أجواء فاخرة لا تُنسى",
   logo: "/logo.svg",
   heroImage:
-    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1920&q=80",
+    "",
   phone: "+966 11 234 5678",
   email: "info@qasralthawq.com",
   address: "الرياض، حي العليا، شارع التحلية",
