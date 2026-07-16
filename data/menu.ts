@@ -34,7 +34,7 @@ export const meals: Meal[] = [
     description: "قطعة لحم واغيو فاخرة مشوية على الفحم مع صلصة الفلفل الأسود",
     price: 189,
     image:
-      "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800&q=80",
+      "",
     category: "main",
     rating: 4.9,
     calories: 680,
