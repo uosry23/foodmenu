@@ -89,7 +89,7 @@ export const meals: Meal[] = [
     description: "دجاج متبل بالبهارات يُقدَّم مع صلصة الثوم والمخللات الطازجة",
     price: 45,
     image:
-      "https://images.unsplash.com/photo-1529006557810-274b9b2e610e?w=800&q=80",
+      "https://tse2.mm.bing.net/th/id/OIP.x92zqkMpDje8w7GnZqifhgHaE4?r=0&pid=Api&h=220&P=0",
     category: "fast",
     rating: 4.5,
     calories: 450,
@@ -130,7 +130,7 @@ export const meals: Meal[] = [
     description: "قهوة عربية تقليدية محضّرة بعناية وتُقدَّم مع التمر الفاخر",
     price: 18,
     image:
-      "https://images.unsplash.com/photo-1514432324607-09a9888f4be4?w=800&q=80",
+      "https://cdn.arabsstock.com/uploads/images/139741/a-plate-of-delicious-gulf-thumbnail-139741.webp",
     category: "drinks",
     rating: 4.9,
     calories: 15,
@@ -143,7 +143,7 @@ export const meals: Meal[] = [
     description: "عصير رمان طازج مع لمسة من الورد وقطع ثلج ناعمة",
     price: 22,
     image:
-      "https://images.unsplash.com/photo-1622593765798-3d8fe4aa8699?w=800&q=80",
+      "https://tse2.mm.bing.net/th/id/OIP.KNJN08_xtKbx48Aq_ElVOwHaE8?r=0&pid=Api&h=220&P=0",
     category: "drinks",
     rating: 4.6,
     calories: 95,
@@ -170,7 +170,7 @@ export const meals: Meal[] = [
     description: "تشيز كيك كريمي بطبقة بسكويت وزينة من التوت الطازج",
     price: 42,
     image:
-      "https://images.unsplash.com/photo-1533134242443-5544d405d6e0?w=800&q=80",
+      "https://tse3.mm.bing.net/th/id/OIP.cytXTv5eENSV9lCcNiZw9AHaEK?r=0&pid=Api&h=220&P=0",
     category: "desserts",
     rating: 4.7,
     calories: 420,
@@ -184,7 +184,7 @@ export const meals: Meal[] = [
     description: "طبقات رقيقة من العجين الذهبي محشوة بالفستق الحلبي وقطر العسل",
     price: 35,
     image:
-      "https://images.unsplash.com/photo-1598110750624-ad1f652773e8?w=800&q=80",
+      "https://tse2.mm.bing.net/th/id/OIP.91KafBY-z_3ed2P61XEyNQHaE8?r=0&pid=Api&h=220&P=0",
     category: "desserts",
     rating: 4.8,
     calories: 350,
